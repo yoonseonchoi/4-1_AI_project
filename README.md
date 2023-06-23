@@ -7,7 +7,7 @@ Demo of Blind Data App Using Facial Detection & Image Captioning Models
 ## Algorithm
 1. 데이팅 앱의 사용자가 원하는 이상형의 피부색, 코 길이의 비율, 입술 길이의 비율을 입력한다.
 2. Facial Detection Model을 통해 조건에 맞는 얼굴 이미지를 랜덤으로 추출한다. 이때, 사용자는 추출된 이미지를 볼 수 없다.
-3. 추출된 이미지에 대하여 Image Captioning Model을 통해 이미지의 특징을 캡션으로 생성한다.      ex) A man is wearing a black shirt. A woman is wearing a black hat.
+3. 추출된 이미지에 대하여 Image Captioning Model을 통해 이미지의 특징(옷, 수염 등)을 캡션으로 생성한다.
 4. 사용자는 서로의 사진을 보지 않고 소개팅 매칭이 된다.
 ## Models
 ### Facial Detection Model Implementation
