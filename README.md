@@ -11,6 +11,7 @@ Demo of Blind Data App Using Facial Detection & Image Captioning Models
 
 
 ex) A man is wearing a black shirt. A woman is wearing a black hat.
+
 5. 사용자는 서로의 사진을 보지 않고 소개팅 매칭이 된다.
 ## Models
 ### Facial Detection Model Implementation
