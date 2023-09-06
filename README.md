@@ -4,6 +4,8 @@
 Demo of Blind Date App Using Facial Detection & Image Captioning Models
 ## Outline
 개인 정보가 중요해지고, 불특정 다수에게 자신의 얼굴을 공개하는 것이 꺼려지는 요즘 사회에서, 많은 소개팅 앱에서는 상대방과 매칭되기 위해 자신의 얼굴을 공개하고 평가를 받아야 한다. 이러한 문제 의식을 가지고 수업 시간에 배운 컴퓨터비전 분야의 모델들을 활용해 보기 위해 위와 같은 프로젝트 주제를 선택하게 되었다.
+## Dataset
+CelebA Dataset
 ## Algorithm
 1. 데이팅 앱의 사용자가 원하는 이상형의 피부색, 코 길이의 비율, 입술 길이의 비율을 입력한다.
 2. Facial Detection Model을 통해 조건에 맞는 얼굴 이미지를 랜덤으로 추출한다. 이때, 사용자는 추출된 이미지를 볼 수 없다.
